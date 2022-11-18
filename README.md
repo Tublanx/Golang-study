@@ -10,3 +10,4 @@ Go언어의 문법 및 함수, 포인터 사용법 등을 공부한 내용들을
 * Chapter6. 연산자
 * Chapter7. 함수
 * Chapter8. 상수
+* Chapter9. if
