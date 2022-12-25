@@ -16,3 +16,4 @@ Go언어의 문법 및 함수, 포인터 사용법 등을 공부한 내용들을
 * Chapter12. 배열
 * Chapter13. 구조체
 * Chapter14. 포인터
+* Chapter15. 문자열
